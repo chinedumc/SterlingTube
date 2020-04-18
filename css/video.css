@@ -1,0 +1,52 @@
+nav i {
+    margin-right: 16px;
+    color: black;
+}
+
+#navbarSupportedContent {
+    height: 5px;
+}
+
+#tube-host-logo img{
+    margin-top: 0px;
+    width: 20px;
+    height: 20px;
+}
+
+.tube-host-logo span {
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 4px;
+}
+
+ul {
+    list-style: none;
+}
+
+.video-text{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+
+span {
+    font-size: 14px;
+}
+
+.col-sm-5 .card {
+    border: none;
+    background-color: inherit; 
+    width: 168px;
+    height: 94px;
+
+}
+
+.col-sm-5 .card img{
+    width: auto;
+    height: 60px;
+    
+}
+
+.col-sm-5 .card h6 {
+    float: right;
+}
