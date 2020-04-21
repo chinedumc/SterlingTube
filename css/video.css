@@ -33,20 +33,43 @@ span {
     font-size: 14px;
 }
 
+/* .col-sm-5 {
+    display: inline-block;
+} */
+
 .col-sm-5 .card {
     border: none;
     background-color: inherit; 
-    width: 168px;
+    width: 396px;
     height: 94px;
+    display: inline-table;
+    
 
 }
 
 .col-sm-5 .card img{
-    width: auto;
-    height: 60px;
+    width: 168px;
+    height: 94px;
     
 }
 
-.col-sm-5 .card h6 {
+.col-sm-5 .card .tube-host-text {
     float: right;
+    width: 228px;
+    height: 94px;
+    padding-left: 0.5em;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 14px;
+}
+
+.tube-host-text .views-text {
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.tube-host-text .views-text-dot {
+    font-size: 13px;
+    font-weight: normal;
+    
 }
